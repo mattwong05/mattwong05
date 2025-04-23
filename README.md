@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @WANGJUNHAOmatt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+>> Matt Wong ⚡ ENFJ | Builder | Connector
 
-<!---
-WANGJUNHAOmatt/WANGJUNHAOmatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+// Identity
+🧠 Curiosity-driven thinker
+🌏 Passionate about cross-cultural communication
+🎨 Loves blending technology with art & humanity
+
+// Projects & Leadership
+🏆 2023 “Internet+” Innovation Competition — National Gold Medalist
+🧭 National Innovation Project — Team Leader
+🚀 Founder @ InterXperience – empowering international students to:
+   ↳ connect with China
+   ↳ understand local culture
+   ↳ start and grow businesses
+
+// Tech & Logic
+💻 Code for fun, not for exams
+📊 1st Prize – Yangtze River Delta Math Modeling Competition
+📘 NOIP (National Olympiad in Informatics) — Top 32 in Province
+
+// Impact & Empathy
+🫶 Outstanding Volunteer @ Asian Games & Asian Para Games
+   ↳ Bridging cultures through service and empathy
+
+// Human Side
+🏸 Badminton – quick feet, clear mind  
+🎵 Clarinet – harmony in breath and tone  
+🚴 Cycling – endless roads, endless thoughts
