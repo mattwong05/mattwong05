@@ -1,3 +1,4 @@
+```
 >> Matt Wong ⚡ ENFJ | Builder | Connector
 
 // Identity
@@ -26,3 +27,4 @@
 🏸 Badminton – quick feet, clear mind  
 🎵 Clarinet – harmony in breath and tone  
 🚴 Cycling – endless roads, endless thoughts
+```
