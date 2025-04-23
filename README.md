@@ -27,4 +27,12 @@
 🏸 Badminton – quick feet, clear mind  
 🎵 Clarinet – harmony in breath and tone  
 🚴 Cycling – endless roads, endless thoughts
+
+// Spoken Languages 🌍
+Chinese, English (C1), German (B1), Indonesian (learning)
+
+// Tech Stack 💻
+Languages      : Python (adv), C/C++, JS, HTML/CSS, Flutter, R, Lisp  
+Core Skills    : Algorithms, Web Scraping, Git, MongoDB, LaTeX, Feishu Scripts  
+Tools & Infra  : FastAPI, VS Code, PyCharm, Ubuntu, Shell, SSH
 ```
